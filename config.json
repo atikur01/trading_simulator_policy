@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "min_app_version": "1.0.0",
   "latest_app_version": "1.0.0"
 }
