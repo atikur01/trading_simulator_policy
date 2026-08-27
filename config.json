@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "min_app_version": "1.0.6",
   "latest_app_version": "1.0.6",
   "remove_ads_card_enabled": true
